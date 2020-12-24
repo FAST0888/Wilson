@@ -62,15 +62,12 @@
 ^(http|https):\/\/(www.)?passwordrecovery\.cn\/ https://cn.elcomsoft.com/aopr.html 302
 ^(http|https):\/\/(www.)?pdfexpert\.cc\/ https://pdfexpert.com/zh 302
 ^(http|https):\/\/(www.)?photozoomchina\.com\/ https://www.benvista.com/ 302
-^(http|https):\/\/(www.)?shankejingling\.com\/ https://www.sothink.com/product/flashdecompiler/
 ^(http|https):\/\/cn\.ultraiso\.net\/ $1://$2.ezbsystems.com/ultraiso/ 302
 ^(http|https):\/\/(www.)?vegaschina\.cn\/ https://www.vegascreativesoftware.com/ 302
 (^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
 ^(http|https):\/\/(www.)?xshellcn\.com\/ https://www.netsarang.com/zh/xshell/ 302
 ^(http|https):\/\/(www.)?yuanchengxiezuo\.com\/ https://www.teamviewer.com/ 302
 ^(http|https):\/\/(www.)?zbrushcn.com/ https://pixologic.com/ 302
-# AbeamTV
-^(http|https):\/\/api\.abema\.io\/v\d\/ip\/check _ reject
 
 [MITM]
 hostname = %APPEND% *.tiktokv.com,*.byteoversea.com,www.google.cn,api.abema.io,prom.mobile.gome.com.cn,y.gtimg.cn,du.hupucdn.com,*.tik-tokapi.com,interfac*.music.163.com,yxyapi2.drcuiyutao.com,api.vistopia.com.cn,capis-clb.didapinche.com,api.jxedt.com,mi.gdt.qq.com,richmanapi.jxedt.com,nfmovies.com,app-api.smzdm.com,emdcadvertise.eastmoney.com,101.201.175.228,182.92.251.113
