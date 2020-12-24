@@ -1,7 +1,7 @@
 [rewrite_local]
 
 #tiktok解锁直播区域限制
-(?<=_region=)CN(?=&) TW 307
+(?<=_region=)CN(?=&) JP 307
 (?<=&mcc_mnc=)4 2 307
 
 # Redirect Google Search Service
