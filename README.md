@@ -1,3 +1,3 @@
-ACL4SSR_Online_Full.ini 为QuanX 订阅使用模板
+ACL4SSR_Online_Full.ini 为Surge 订阅使用模板
 QuanX_tikTok_Unlock.sgmodule 为TW地区Tiktok 使用资源解析器调研 QuanX专用
 Surge_tikTok_Unlock.sgmodule 为TW地区Tiktok Surge 安装模块 
