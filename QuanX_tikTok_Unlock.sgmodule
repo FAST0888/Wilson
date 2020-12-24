@@ -63,7 +63,6 @@
 ^(http|https):\/\/(www.)?passwordrecovery\.cn\/ https://cn.elcomsoft.com/aopr.html 302
 ^(http|https):\/\/(www.)?pdfexpert\.cc\/ https://pdfexpert.com/zh 302
 ^(http|https):\/\/(www.)?photozoomchina\.com\/ https://www.benvista.com/ 302
-^(http|https):\/\/(www.)?shankejingling\.com\/ https://www.sothink.com/product/flashdecompiler/
 ^(http|https):\/\/cn\.ultraiso\.net\/ $1://$2.ezbsystems.com/ultraiso/ 302
 ^(http|https):\/\/(www.)?vegaschina\.cn\/ https://www.vegascreativesoftware.com/ 302
 (^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
