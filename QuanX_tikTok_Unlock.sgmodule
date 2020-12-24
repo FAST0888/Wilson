@@ -1,6 +1,3 @@
-#!name=tikTok
-#!desc=tikTok Unlock
-
 [Rewrite_local]
 #tiktok解锁直播区域限制
 (?<=_region=)CN(?=&) TW 307
