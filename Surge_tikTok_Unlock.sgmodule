@@ -1,5 +1,6 @@
 #!name=TikTok US
 #!desc=TikTok Unlock
+#!system=ios
 
 [URL Rewrite]
 
@@ -10,4 +11,4 @@
 (^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
 
 [MITM]
-hostname = %APPEND% *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
+hostname = %APPEND% *.byteoversea.com
