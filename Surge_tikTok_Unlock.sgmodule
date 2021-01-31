@@ -11,4 +11,4 @@
 (^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
 
 [MITM]
-hostname = %APPEND% *.byteoversea.com
+hostname = %APPEND% *.tik-tokapi.com
