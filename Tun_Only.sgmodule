@@ -1,0 +1,6 @@
+#!name=Tun Only
+#!desc=compatibility
+#!system=ios
+
+[General]
+compatibility-mode = 3
